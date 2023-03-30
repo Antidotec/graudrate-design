@@ -1,0 +1,50 @@
+Date : 2022-05-13 12:39:37
+Directory : d:\毕业设计\code
+Total : 22 files,  9395 codes, 0 comments, 74 blanks, all 9469 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| JSON     |         15 |      7,721 |          0 |         15 |      7,736 |
+| Log      |          2 |      1,352 |          0 |         39 |      1,391 |
+| HTML     |          4 |        316 |          0 |         20 |        336 |
+| Python   |          1 |          6 |          0 |          0 |          6 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                   |         22 |      9,395 |          0 |         74 |      9,469 |
+| .ipynb_checkpoints                                                  |          7 |      3,239 |          0 |          7 |      3,246 |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                            | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\毕业设计\code\.ipynb_checkpoints\data_abstract-checkpoint.ipynb      | JSON     |        153 |          0 |          1 |        154 |
+| d:\毕业设计\code\.ipynb_checkpoints\draw statistics-checkpoint.ipynb    | JSON     |        137 |          0 |          1 |        138 |
+| d:\毕业设计\code\.ipynb_checkpoints\genim ldaModel-checkpoint.ipynb     | JSON     |        544 |          0 |          1 |        545 |
+| d:\毕业设计\code\.ipynb_checkpoints\kmeans-checkpoint.ipynb             | JSON     |        370 |          0 |          1 |        371 |
+| d:\毕业设计\code\.ipynb_checkpoints\matt ldaModel - 副本-checkpoint.ipynb | JSON     |        602 |          0 |          1 |        603 |
+| d:\毕业设计\code\.ipynb_checkpoints\matt ldaModel-checkpoint.ipynb      | JSON     |        959 |          0 |          1 |        960 |
+| d:\毕业设计\code\.ipynb_checkpoints\run_lda-checkpoint.ipynb            | JSON     |        474 |          0 |          1 |        475 |
+| d:\毕业设计\code\bar_base.html                                          | HTML     |        211 |          0 |          2 |        213 |
+| d:\毕业设计\code\data_abstract.ipynb                                    | JSON     |        291 |          0 |          1 |        292 |
+| d:\毕业设计\code\draw statistics.ipynb                                  | JSON     |        179 |          0 |          1 |        180 |
+| d:\毕业设计\code\execute.py                                             | Python   |          6 |          0 |          0 |          6 |
+| d:\毕业设计\code\genim ldaModel.ipynb                                   | JSON     |        550 |          0 |          1 |        551 |
+| d:\毕业设计\code\hs_err_pid20328.log                                    | Log      |        294 |          0 |         38 |        332 |
+| d:\毕业设计\code\kmeans.ipynb                                           | JSON     |        392 |          0 |          1 |        393 |
+| d:\毕业设计\code\lda.html                                               | HTML     |         35 |          0 |          6 |         41 |
+| d:\毕业设计\code\lda_genim.html                                         | HTML     |         35 |          0 |          6 |         41 |
+| d:\毕业设计\code\lda_mallet.html                                        | HTML     |         35 |          0 |          6 |         41 |
+| d:\毕业设计\code\matt ldaModel - 副本.ipynb                               | JSON     |      1,279 |          0 |          1 |      1,280 |
+| d:\毕业设计\code\matt ldaModel.ipynb                                    | JSON     |      1,031 |          0 |          1 |      1,032 |
+| d:\毕业设计\code\replay_pid20328.log                                    | Log      |      1,058 |          0 |          1 |      1,059 |
+| d:\毕业设计\code\run_lda.ipynb                                          | JSON     |        519 |          0 |          1 |        520 |
+| d:\毕业设计\code\sklearn.ipynb                                          | JSON     |        241 |          0 |          1 |        242 |
+| Total                                                               |          |      9,395 |          0 |         74 |      9,469 |
++---------------------------------------------------------------------+----------+------------+------------+------------+------------+
